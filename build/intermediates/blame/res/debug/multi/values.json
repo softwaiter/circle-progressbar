@@ -1,0 +1,134 @@
+[
+    {
+        "outputFile": "H:\\SourceCode\\Java\\5idouniwan_NoAD\\CircleProgressBar\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 536,
+                    "endColumn": 54,
+                    "endOffset": 586
+                },
+                "from": {
+                    "file": "H:\\SourceCode\\Java\\5idouniwan_NoAD\\CircleProgressBar\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 54,
+                        "endOffset": 69
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 591,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 877
+                },
+                "from": {
+                    "file": "H:\\SourceCode\\Java\\5idouniwan_NoAD\\CircleProgressBar\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 882,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 1037
+                },
+                "from": {
+                    "file": "H:\\SourceCode\\Java\\5idouniwan_NoAD\\CircleProgressBar\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "H:\\SourceCode\\Java\\5idouniwan\\CircleProgressBar\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 536,
+                    "endColumn": 54,
+                    "endOffset": 586
+                },
+                "from": {
+                    "file": "H:\\SourceCode\\Java\\5idouniwan\\CircleProgressBar\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 54,
+                        "endOffset": 69
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 591,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 877
+                },
+                "from": {
+                    "file": "H:\\SourceCode\\Java\\5idouniwan\\CircleProgressBar\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 882,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 1037
+                },
+                "from": {
+                    "file": "H:\\SourceCode\\Java\\5idouniwan\\CircleProgressBar\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]
